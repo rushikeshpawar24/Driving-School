@@ -1,0 +1,42 @@
+body{
+
+    background-size: cover;
+  } 
+  
+  #myvideo{background-size:cover;
+    position:fixed;
+    right:0;
+    bottom:0;
+    min-width:100%;
+    min-height:100;
+    z-index:-1;
+    }
+  
+  .nav{
+    background:transparent;
+    color:white;
+    display:flex;
+    justify-content: space-evenly;
+  }
+  #navstatus{
+    margin-left: 32rem;
+    
+  }
+  .text{
+    color:white;
+    font-family: Courier;
+    font-weight: 700;
+    font-size: 18px;
+  }
+  .text:hover{
+    color: aqua;
+    text-decoration: underline;
+  }
+  .txt{
+    color:white;
+    font-weight: 900;
+    margin-left: 1rem;
+    font-family: Copper;
+    font-size: 30px;
+  }
+  
